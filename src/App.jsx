@@ -1,34 +1,48 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import './App.css'
+import React from 'react';
+import styles from './style.js';
 
-function App() {
-  const [count, setCount] = useState(0)
 
+
+// modern way of defining an application instead of export default function App() {return()}
+// lol tutorial wants me to use snippets tf!!! im the fucking brains i dont want that shit coding for me
+// initial div 
+// bg-primary sets background colour to primary color in tailwind.config.cjs
+// w-full sets width of element to 100%
+// overflow-hidden - nothing spills out of the toy box!
+const App = () => {
   return (
-    <div className="App">
-      <div>
-        <a href="https://vitejs.dev" target="_blank">
-          <img src="/vite.svg" className="logo" alt="Vite logo" />
-        </a>
-        <a href="https://reactjs.org" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
-        </a>
+    <div className="bg-primary w-full overflow-hidden">
+      <div className={`${styles.paddingX} ${styles.flexCenter}`}>
+        <div className={`${styles.boxWidth}`}>
+          Navbar
+        </div>
       </div>
-      <h1>Vite + React</h1>
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
-        <p>
-          Edit <code>src/App.jsx</code> and save to test HMR
-        </p>
+
+
+    <div className={`bg-primary ${styles.flexStart}`}>
+      <div className={`${styles.boxWidth}`}>
+        Hero
       </div>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p>
     </div>
-  )
+    
+     <div className={`bg-primary ${styles.flexStart}`}>
+      <div className={`${styles.boxWidth}`}>
+        Stats 
+        Business
+        Billing
+        CardDeal
+        Testimonials
+        Clients
+        CTA
+        Footer
+      </div>
+    </div>
+
+
+</div>
+
+
+  );
 }
 
-export default App
+export default App;
