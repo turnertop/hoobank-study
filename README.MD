@@ -6,3 +6,26 @@ everyone has a little bit of vite in them
 
 
 
+
+
+
+Changelog Jan 27, 2023:
+finished Navbar.jsx
+
+NEEDS REVIEWING:
+map() keys
+tailwindcss most used utility classes, review cheat sheet
+review using index.js as main export for component folder
+why do we import as {} from components folder instead of importing from index.js in components
+review styles.js object to hold tw classes
+review the : ? notation
+the ? :
+the - 1 means something at the end
+review the a href = {`#${nav.id}`}
+review call function for state onClick
+review tailwindcss.config.cjs module exports docs for theme extends etc
+
+look into filmpire app tutorial for this guy because he really knows mobile optimization
+tablet optimization etc, its almost as if that is natively designed
+
+
