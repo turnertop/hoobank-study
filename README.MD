@@ -13,6 +13,7 @@ Changelog Jan 27, 2023:
 finished Navbar.jsx
 
 NEEDS REVIEWING:
+look into markdown so i can write better readmes
 map() keys
 tailwindcss most used utility classes, review cheat sheet
 review using index.js as main export for component folder
