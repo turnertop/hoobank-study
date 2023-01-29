@@ -28,6 +28,12 @@ the - 1 means something at the end
 review the a href = {`#${nav.id}`}
 review call function for state onClick
 review tailwindcss.config.cjs module exports docs for theme extends etc
+review div layout css
+review styles.js dynamic classes
+review figma inspect for css styling!
+
+
+
 
 look into filmpire app tutorial for this guy because he really knows mobile optimization
 tablet optimization etc, its almost as if that is natively designed
