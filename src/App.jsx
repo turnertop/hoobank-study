@@ -1,6 +1,10 @@
 import React from 'react';
 import styles from './style.js';
 
+import Seized from './components/Seized.jsx';
+
+// Billing is next 1:29:24
+
 // after setting up index.js exporting the components in the component folder, you can import using {} what the fuckkkkk thats crazy
 import { Navbar, Hero, Stats, Business, Billing, CardDeal, Testimonials, Clients, CTA, Footer } from './components';
 
@@ -30,6 +34,7 @@ const App = () => {
       <div className={`${styles.boxWidth}`}>
         <Stats /> 
         <Business />
+        <Seized />
         <Billing />
         <CardDeal />
         <Testimonials />
