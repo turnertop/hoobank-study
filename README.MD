@@ -8,7 +8,10 @@ everyone has a little bit of vite in them
 
 
 
-
+changlog Jan 28, 2023:
+finished GetStarted Component
+Gradients for behind main img
+finishd hero.jsx
 Changelog Jan 27, 2023:
 finished Navbar.jsx
 
