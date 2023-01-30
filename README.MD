@@ -1,3 +1,5 @@
+<img width="702" alt="hoobank-study" src="https://user-images.githubusercontent.com/89334184/215391773-52d456b8-7b34-4a9d-aed9-0d4ff7bf26f2.png">
+
 <h1>there is vite inside all of us.
 everyone has a little bit of vite in them</h1>
 <h2>NEEDS REVIEWING</h2>
