@@ -14,7 +14,7 @@ const Testimonials = () => {
       <div className="w-full flex justify-between items-center md:flex-row flex-col sm:mb-16 mb-6 relative z=[1]">
         <h1 className={styles.heading2}>What people are <br classBame="sm:block hidden"/> saying about us</h1>
         <div className="w-full md:mt-0 mt-6">
-          <p className={`${styles.paragraph} text-left max-w-[450px]`}>Imagine reducing everything to 0. Like returning everything to nothingness. The absence of matter. We will all answer to the divine, some more than others.</p>
+          <p className={`${styles.paragraph} text-left max-w-[450px]`}>Imagine reducing everything to 0. Like returning everything to nothingness.</p>
         </div>
 
         <div className="flex flex-wrap sm:justify-start justify-center w-full-feedback-container relative z-[1]">
