@@ -1,5 +1,5 @@
-<h1>there is vite inside all of us</h1>
-<h1>everyone has a little bit of vite in them</h1>
+<h1>there is vite inside all of us.
+everyone has a little bit of vite in them</h1>
 <h2>NEEDS REVIEWING</h2>
 <p>Look into MARKDOWN to write better READMEs. <br>
 Look into mapping() and keys (VERY IMPORTANT) <br>
