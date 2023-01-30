@@ -1,19 +1,8 @@
-there is vite inside all of us
-
-everyone has a little bit of vite in them
-
+<h1>there is vite inside all of us</h1>
+<h1>everyone has a little bit of vite in them</h1>
 
 
 
-
-
-
-changlog Jan 28, 2023:
-finished GetStarted Component
-Gradients for behind main img
-finishd hero.jsx
-Changelog Jan 27, 2023:
-finished Navbar.jsx
 
 NEEDS REVIEWING:
 look into markdown so i can write better readmes
