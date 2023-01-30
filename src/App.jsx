@@ -34,7 +34,6 @@ const App = () => {
       <div className={`${styles.boxWidth}`}>
         <Stats /> 
         <Business />
-        <Seized />
         <Billing />
         <CardDeal />
         <Testimonials />
